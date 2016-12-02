@@ -1,0 +1,15 @@
+.. _notooperator:
+
+#############
+NOTO OPERATOR
+#############
+
+
+Contents:
+
+.. toctree::
+   :maxdepth:5
+
+   Notes for the operators in charge of single-dish observations with the Noto 32-m antenna  <index.rst>
+
+
